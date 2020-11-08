@@ -1,2 +1,2 @@
 # projectfile.github.lo
-# gh repo clone Tohanur/projectfile.github.lo
+# Tohanur/projectfile.github.lo
